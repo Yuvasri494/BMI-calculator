@@ -58,7 +58,7 @@ html, body {
 }
 
 
-@media (max-width: 360px){
+@media (max-width: 400px){
     .header{
         font-size: 22px;
     }
@@ -69,3 +69,4 @@ html, body {
         padding: 18px;
     }
 }
+
