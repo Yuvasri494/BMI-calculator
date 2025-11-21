@@ -11,8 +11,9 @@ function calculatebmi()
 
      let bmi = weightinput /(height ** 2 );
      
-     document.getElementById("result").innerHTML = `Your BMI is ${bmi.toFixed(2)};`
+     document.getElementById("result").innerHTML = `Your BMI is ${bmi.toFixed(2)}`
 
 }
  
+
     
